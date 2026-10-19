@@ -1,7 +1,7 @@
 # CO1034
 Treasure Hunt
 
-Team L:
+<h1>Team L:</h1>
 Charis Dimosthenous
 Andreas Schoinis
 Konstantinos Kallesiies
